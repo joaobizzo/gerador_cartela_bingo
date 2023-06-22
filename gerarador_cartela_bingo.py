@@ -30,7 +30,7 @@ numeros_i = list(range(16, 31))
 numeros_n = list(range(31, 46))
 numeros_g = list(range(46, 61))
 numeros_o = list(range(61, 76))
-print(numeros_o)
+
 
 # Gerar 60 cópias da imagem
 for i in range(quantidade):
